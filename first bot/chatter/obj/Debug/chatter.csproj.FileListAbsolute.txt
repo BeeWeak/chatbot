@@ -1,0 +1,26 @@
+C:\Personal Files\c#\chatter\chatter\bin\Debug\chatter.exe.config
+C:\Personal Files\c#\chatter\chatter\bin\Debug\chatter.exe
+C:\Personal Files\c#\chatter\chatter\bin\Debug\chatter.pdb
+C:\Personal Files\c#\chatter\chatter\bin\Debug\AIMLbot.dll
+C:\Personal Files\c#\chatter\chatter\obj\Debug\chatter.csprojResolveAssemblyReference.cache
+C:\Personal Files\c#\chatter\chatter\obj\Debug\chatter.exe
+C:\Personal Files\c#\chatter\chatter\obj\Debug\chatter.pdb
+E:\Excol\HND Unit 27 RQF AI\eliza\chatter\bin\Debug\chatter.exe.config
+E:\Excol\HND Unit 27 RQF AI\eliza\chatter\obj\Debug\chatter.exe
+E:\Excol\HND Unit 27 RQF AI\eliza\chatter\obj\Debug\chatter.pdb
+E:\Excol\HND Unit 27 RQF AI\first bot\chatter\bin\Debug\chatter.exe.config
+E:\Excol\HND Unit 27 RQF AI\first bot\chatter\obj\Debug\chatter.exe
+E:\Excol\HND Unit 27 RQF AI\first bot\chatter\obj\Debug\chatter.pdb
+E:\Excol\HND Unit 27 RQF AI\first bot\chatter\bin\Debug\chatter.exe
+E:\Excol\HND Unit 27 RQF AI\first bot\chatter\bin\Debug\chatter.pdb
+E:\Excol\HND Unit 27 RQF AI\first bot\chatter\bin\Debug\AIMLbot.dll
+C:\Users\harry\OneDrive\Desktop\AssignmentBot\first bot\first bot\chatter\bin\Debug\chatter.exe.config
+C:\Users\harry\OneDrive\Desktop\AssignmentBot\first bot\first bot\chatter\bin\Debug\chatter.exe
+C:\Users\harry\OneDrive\Desktop\AssignmentBot\first bot\first bot\chatter\bin\Debug\chatter.pdb
+C:\Users\harry\OneDrive\Desktop\AssignmentBot\first bot\first bot\chatter\bin\Debug\AIMLbot.dll
+C:\Users\harry\OneDrive\Desktop\AssignmentBot\first bot\first bot\chatter\obj\Debug\chatter.csproj.AssemblyReference.cache
+C:\Users\harry\OneDrive\Desktop\AssignmentBot\first bot\first bot\chatter\obj\Debug\chatter.csproj.SuggestedBindingRedirects.cache
+C:\Users\harry\OneDrive\Desktop\AssignmentBot\first bot\first bot\chatter\obj\Debug\chatter.csproj.CoreCompileInputs.cache
+C:\Users\harry\OneDrive\Desktop\AssignmentBot\first bot\first bot\chatter\obj\Debug\chatter.csproj.CopyComplete
+C:\Users\harry\OneDrive\Desktop\AssignmentBot\first bot\first bot\chatter\obj\Debug\chatter.exe
+C:\Users\harry\OneDrive\Desktop\AssignmentBot\first bot\first bot\chatter\obj\Debug\chatter.pdb

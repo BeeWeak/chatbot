@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Author: Harry Watson -->
+<aiml>
+  <!-- FA simple default response. -->
+  <category>
+    <pattern>*</pattern>
+    <template>
+      <random>
+        <li>I'm sorry I don't understand</li>
+        <li>I just don't get it</li>
+        <li>It makes no sense to me</li>
+        <li>It's a mystery to me!</li>
+        <li>It's completely beyond me</li>
+        <li>I can't get my head around it</li>
+      </random>
+    </template>
+  </category>
+
+
+  <!-- Lifelike -->
+  <category>
+    <pattern>wyd</pattern>
+    <template>
+      <srai>WYD</srai>
+    </template>
+  </category>
+  <category>
+    <pattern>WYD</pattern>
+    <template>I am now talking to you</template>
+  </category>
+  <category>
+    <pattern>brb</pattern>
+    <template>
+      <srai>BRB</srai>
+    </template>
+  </category>
+  <category>
+    <pattern>BRB</pattern>
+    <template>Okay! see you in a moment</template>
+  </category>
+  <category>
+    <pattern>I am * and I am looking for *</pattern>
+    <template>
+      Hi! <star index="2"/>. <star index="1"/> is reasonable to look at!
+    </template>
+  </category>
+  <category>
+    <pattern>I work as *</pattern>
+    <template>
+      <star index="1"/> Thats a very important job!
+    </template>
+  </category>
+
+
+  <!-- Conditions-->
+  <category>
+    <pattern>lets talk about universal credit</pattern>
+    <template>
+      <think>
+        <set name="state">universal</set>
+      </think>
+      <condition name="state" value="universal">
+        <set name="topic">universal</set>
+      </condition>
+    </template>
+  </category>
+
+
+  <category>
+    <pattern>lets talk about winter fuel payment</pattern>
+    <template>
+      <think>
+        <set name="state">fuelpayment</set>
+      </think>
+      <condition name="state" value="universal">
+        <set name="topic">fuelpayment</set>
+      </condition>
+    </template>
+  </category>
+
+  
+</aiml> 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
